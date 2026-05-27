@@ -1,20 +1,20 @@
 ---
-title: "Privacy Policy — {{APP_NAME}}"
+title: "Privacy Policy — Aqua Ridge QBO Bridge"
 ---
 
 # Privacy Policy
 
 _Last updated: 2026-05-27_
 
-This Privacy Policy describes how {{APP_NAME}} ("the Software") handles data. The Software is a private, internal tool operated by {{OPERATOR}} for the sole purpose of accessing {{OPERATOR}}'s own QuickBooks Online company.
+This Privacy Policy describes how Aqua Ridge QBO Bridge ("the Software") handles data. The Software is a private, internal tool operated by Matt Libucha for the sole purpose of accessing Matt Libucha's own QuickBooks Online company.
 
 ## Who this policy applies to
 
-The Software has no public-facing end users. It is operated only by {{OPERATOR}} and authorized personnel within {{OPERATOR}}'s organization. This policy describes the handling of data accessed by the Software on behalf of {{OPERATOR}} itself.
+The Software has no public-facing end users. It is operated only by Matt Libucha and authorized personnel within Matt Libucha's organization. This policy describes the handling of data accessed by the Software on behalf of Matt Libucha itself.
 
 ## Data accessed
 
-The Software accesses data from {{OPERATOR}}'s own QuickBooks Online company via the Intuit QuickBooks Online API, including:
+The Software accesses data from Matt Libucha's own QuickBooks Online company via the Intuit QuickBooks Online API, including:
 
 - Accounting records (invoices, bills, payments, journal entries, deposits, transfers, etc.)
 - Lists (customers, vendors, employees, items, accounts, classes, departments)
@@ -23,11 +23,11 @@ The Software accesses data from {{OPERATOR}}'s own QuickBooks Online company via
 - Tax codes, rates, and agencies
 - File attachments associated with transactions
 
-The Software does **not** access data from any QuickBooks Online company other than {{OPERATOR}}'s own.
+The Software does **not** access data from any QuickBooks Online company other than Matt Libucha's own.
 
 ## How data is used
 
-Data is used solely to support {{OPERATOR}}'s internal bookkeeping and financial workflows. It is processed in response to operator-initiated requests and is not used for advertising, profiling, model training, resale, or any purpose unrelated to {{OPERATOR}}'s own accounting.
+Data is used solely to support Matt Libucha's internal bookkeeping and financial workflows. It is processed in response to operator-initiated requests and is not used for advertising, profiling, model training, resale, or any purpose unrelated to Matt Libucha's own accounting.
 
 ## Where data is stored
 
@@ -50,7 +50,7 @@ OAuth tokens are stored in a local configuration file on the operator's machine.
 
 ## End-user rights
 
-Because the Software has no end users other than {{OPERATOR}} itself, there is no end-user data subject whose access, deletion, or portability rights would apply against the Software. Rights regarding the QuickBooks data itself are governed by Intuit's own privacy policy and {{OPERATOR}}'s relationship with Intuit.
+Because the Software has no end users other than Matt Libucha itself, there is no end-user data subject whose access, deletion, or portability rights would apply against the Software. Rights regarding the QuickBooks data itself are governed by Intuit's own privacy policy and Matt Libucha's relationship with Intuit.
 
 ## Changes to this policy
 
@@ -58,4 +58,4 @@ This policy may be updated as the Software evolves. The "Last updated" date abov
 
 ## Contact
 
-Privacy-related questions: {{CONTACT_EMAIL}}.
+Privacy-related questions: matt@aquaridgeseniorliving.com.
